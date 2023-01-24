@@ -1,0 +1,120 @@
+
+body{ 
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+h1{
+    padding: 20px; 
+    font-size: 4.375em;
+    margin: 50px auto 0 auto; 
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF; 
+    height: 2em;
+}
+
+h2{
+    font-family: 'Montserrat', serif;
+    font-size: 2.5rem;
+    color:#66BFBF; 
+    font-weight: normal; 
+}
+
+h3{
+    font-family: 'Montserrat', serif;
+    color: #66BFBF;
+}
+
+.pro{
+    text-decoration: underline;
+    color:#11999E;
+}
+
+.top-container{
+    background-color: blanchedalmond;
+    position: relative; 
+    padding-top: 20px; /*padding for the margins */ 
+}
+
+.middle-container{
+    padding: 5%; 
+}
+
+.bottom-container{
+    padding: 20px; 
+    background-color:blanchedalmond;  
+    text-decoration: none;
+} 
+
+.profile-pic{
+    height: 200px; 
+    width: 200px; 
+}
+
+.top-cloud{
+    position: absolute;
+    right: 250px;
+    top: 175px; 
+}
+
+.bottom-cloud{
+    position: absolute; 
+    left: 275px;
+    top: 350px;  
+}
+
+.computer{
+    height: 25%; 
+    width: 25%; 
+    border-radius: 50%;
+    float:left; 
+    margin-right: 30px; 
+}
+
+.new-golf{
+    height: 25%; 
+    width: 25%; 
+    float: right;
+    margin-left:30px; 
+}
+
+a{
+    color: #11999E; 
+}
+
+.skill-row{
+    margin: 100px auto ;
+    width:50%; 
+    text-align: left;
+    line-height: 2;
+}
+
+.desc-text{
+    color: #40514E; 
+}
+
+.copyright-tag{
+    color: #B2BEB5; 
+    font-size: 10px;
+    word-spacing: normal;
+
+}
+
+hr{
+    border-style:dotted; 
+    border-top:0 ; 
+    border-width: 6px; 
+    width: 3em;
+    border-color: lightgrey; 
+
+}
+
+a{
+    margin: 10px 20px; 
+    text-decoration: none;
+}
+
+a:hover{
+    color:black; 
+}
